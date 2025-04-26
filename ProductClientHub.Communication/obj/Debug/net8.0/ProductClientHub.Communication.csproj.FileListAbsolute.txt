@@ -1,0 +1,11 @@
+D:\PROGRAMAÇÃO\ws-csharp\ProductClientHub\ProductClientHub.Communication\bin\Debug\net8.0\ProductClientHub.Communication.deps.json
+D:\PROGRAMAÇÃO\ws-csharp\ProductClientHub\ProductClientHub.Communication\bin\Debug\net8.0\ProductClientHub.Communication.dll
+D:\PROGRAMAÇÃO\ws-csharp\ProductClientHub\ProductClientHub.Communication\bin\Debug\net8.0\ProductClientHub.Communication.pdb
+D:\PROGRAMAÇÃO\ws-csharp\ProductClientHub\ProductClientHub.Communication\obj\Debug\net8.0\ProductClientHub.Communication.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMAÇÃO\ws-csharp\ProductClientHub\ProductClientHub.Communication\obj\Debug\net8.0\ProductClientHub.Communication.AssemblyInfoInputs.cache
+D:\PROGRAMAÇÃO\ws-csharp\ProductClientHub\ProductClientHub.Communication\obj\Debug\net8.0\ProductClientHub.Communication.AssemblyInfo.cs
+D:\PROGRAMAÇÃO\ws-csharp\ProductClientHub\ProductClientHub.Communication\obj\Debug\net8.0\ProductClientHub.Communication.csproj.CoreCompileInputs.cache
+D:\PROGRAMAÇÃO\ws-csharp\ProductClientHub\ProductClientHub.Communication\obj\Debug\net8.0\ProductClientHub.Communication.dll
+D:\PROGRAMAÇÃO\ws-csharp\ProductClientHub\ProductClientHub.Communication\obj\Debug\net8.0\refint\ProductClientHub.Communication.dll
+D:\PROGRAMAÇÃO\ws-csharp\ProductClientHub\ProductClientHub.Communication\obj\Debug\net8.0\ProductClientHub.Communication.pdb
+D:\PROGRAMAÇÃO\ws-csharp\ProductClientHub\ProductClientHub.Communication\obj\Debug\net8.0\ref\ProductClientHub.Communication.dll
